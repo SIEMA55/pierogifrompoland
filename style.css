@@ -1,0 +1,25 @@
+*
+{
+background-color:lightcoral;
+
+}
+
+#pierorzek 
+{
+top: 33%;
+left: 19%;
+position: absolute;
+width: 250px;
+height: 250px;
+padding: 0;
+border: none;
+background: none;
+}
+
+#ziemia
+{
+top: 30%;
+position: absolute;
+left: 9%;
+
+}
